@@ -2,8 +2,6 @@
 
 ### 1. Install 
 ```
-$ git clone https://github.com/anavozhko/flask-scheduler-example
-$ cd flask-scheduler-example
 $ pip install -r requirements.txt
 ```
 
